@@ -2,23 +2,21 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Sistema PAPA - Manual de Reglas</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <title>Sistema PAPA</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app">Cargando el sistema...</div>
+  <div id="app">Cargando...</div>
   <script>
     window.$docsify = {
       name: 'Sistema PAPA',
-      repo: '',
-      loadSidebar: true, // Esto crea el menú lateral
-      subMaxLevel: 3,    // Nivel de detalle del menú (hasta ###)
-      homepage: 'Papa.md', // Tu archivo principal
+      // Cambiamos loadSidebar por una estructura manual para que no falle localmente
+      loadSidebar: false, 
+      maxLevel: 4,
+      subMaxLevel: 3,
+      homepage: 'Papa.md',
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
