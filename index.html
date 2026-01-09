@@ -7,7 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
   <style>
-    /* Ajuste para que la barra lateral no se vea vacía mientras carga */
+    /* Estética para que se vea más como un manual de rol */
+    :root {
+      --theme-color: #e74c3c; /* Un rojo papa/sangre para los enlaces */
+    }
     .sidebar-nav { padding-top: 20px; }
   </style>
 </head>
@@ -16,24 +19,25 @@
   <script>
     window.$docsify = {
       name: 'Sistema PAPA',
-      repo: '',
-      // CONFIGURACIÓN DE BARRA LATERAL
-      loadSidebar: true,
-      subMaxLevel: 3,    // Muestra los subtítulos (###) dentro del menú
-      auto2top: true,    // Sube al inicio al cambiar de sección
+      // 1. DEFINIMOS TU ARCHIVO COMO EL INICIO
+      homepage: 'Papa.md',
       
-      // SOLUCIÓN PARA GITHUB PAGES:
-      // El alias ayuda a que Docsify encuentre el _sidebar.md sin importar la URL
+      // 2. CARGAMOS LA BARRA LATERAL
+      loadSidebar: true,
+      subMaxLevel: 3,
+      
+      // 3. AJUSTES PARA GITHUB PAGES
+      auto2top: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
 
-      // Configuración del buscador interno
+      // 4. BUSCADOR
       search: {
         maxAge: 86400000,
         paths: 'auto',
         placeholder: 'Buscar regla...',
-        noData: '¡No hay resultados!',
+        noData: 'No encontrado',
         depth: 6
       }
     }
@@ -43,3 +47,4 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>
+
