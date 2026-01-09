@@ -1,9 +1,5 @@
 
 # **Sistema PAPA**
-
-Aquí tienes el índice estructurado del documento **Sistema PAPA**, generado directamente a partir de sus encabezados y marcadores de sección para que puedas copiarlo y pegarlo en tu archivo Markdown:
-
-
 ## **¿Qué es un juego de rol?**
 Una pregunta que me hago bastante poco, considerando que llevo más de 20 años en este hobby. Para algunos es una especie de obra de teatro con papeles y acciones improvisadas. Para otros es una especie de narración colectiva donde una persona va narrando un acontecer y los demás van respondiendo a eso. Para mí... bueno, para mí es una tarde con amigos, un par de botanas, un par de dados y, obviamente, un par de carcajadas cuando todo se va al carajo.  
 
@@ -2661,5 +2657,6 @@ Por lo tanto, después de sumar el valor en PD de todos los monstruos del encuen
 El total ajustado es la verdadera dificultad del encuentro, y es este número el que debes comparar con el presupuesto de tu grupo. Si el total ajustado es significativamente mayor que tu presupuesto, el combate será más difícil de lo planeado. Si es menor, será más fácil. 
 
 Este sistema es una guía, no una ciencia exacta. El terreno, la preparación de los jugadores y la táctica de los monstruos también influyen en la dificultad final. Úsalo como una herramienta para construir una base sólida y luego ajusta según la narrativa y el estado de tu grupo. 
+
 
 
