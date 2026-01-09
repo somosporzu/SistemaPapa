@@ -1,10 +1,7 @@
 * [Inicio](Papa.md)
-* **Reglas Básicas**
-  * [¿Qué es el Rol?](Papa.md#qué-es-un-juego-de-rol)
-  * [Tiradas y Dificultad](Papa.md#la-tirada-básica)
+* **Reglas**
+  * [La Tirada Básica](Papa.md#la-tirada-basica)
+  * [Dificultad](Papa.md#la-dificultad-de-las-tiradas)
 * **Personajes**
   * [Atributos](Papa.md#atributos-primarios)
   * [Creación](Papa.md#paso-1-elige-tu-senda)
-* **Combate y Técnicas**
-  * [El Sistema de Técnicas](Papa.md#el-sistema-de-técnicas)
-  * [Bestiario](Papa.md#animales)
