@@ -1,5 +1,7 @@
 
 # **Sistema PAPA**
+
+
 ## **¿Qué es un juego de rol?**
 Una pregunta que me hago bastante poco, considerando que llevo más de 20 años en este hobby. Para algunos es una especie de obra de teatro con papeles y acciones improvisadas. Para otros es una especie de narración colectiva donde una persona va narrando un acontecer y los demás van respondiendo a eso. Para mí... bueno, para mí es una tarde con amigos, un par de botanas, un par de dados y, obviamente, un par de carcajadas cuando todo se va al carajo.  
 
@@ -373,6 +375,439 @@ Recuerda que al elegir una senda obtienes sus Habilidades Iniciales, y que luego
 Cundo eliges una senda esta te da afinidad a uno o dos tipos de energía primigenia, misma energía que los personajes canalizan para realizar sus técnicas. Durante la creación del personaje y cuando desees adquirir más arboles de técnicas esta energía determinara que arboles puedes elegir.
 5. Costes disminuidos y costes aumentados
 Cuando desempeñas una función constantemente te resulta más fácil adquirir conocimientos o habilidades en esa área, esto se ve reflejado en que cada senda tiene costes reducidos para adquirir ciertas mejoras. Por otro lado las cosas que son ajenas a la senda son más difíciles de aprender y es aquí donde aparecen los costes aumentados, los cuales incrementan el costo de experiencia por aprenderlos. Por lo general los costos reducidos reducen el valor a un 80%, mientras que el costo aumentado lo sube hasta un 150%. (en ambos casos redondeado hacia abajo)
+
+## Senda del Comandante
+
+Un combatiente entrenado para sostener el frente, proteger a sus aliados y forzar al enemigo a pelear en desventaja. Tu presencia en el campo de batalla es un faro de esperanza para tus compañeros y una sentencia de derrota para tus enemigos.
+
+**Afinidad:** Orden
+
+**Conceptos:** Guerrero, Monje, Noble
+
+**Costes de PX Modificados:**
+- **Afines:** Atributo Cuerpo; Técnicas de Orden; Conceptos Marciales
+- **Ajenos:** Conceptos Espirituales; Conceptos Intelectuales
+
+**Equipo Inicial:** Arma marcial, Armadura media
+
+### Habilidad Inicial: Bastión Inquebrantable
+
+Tu entrenamiento como comandante ha forjado tu cuerpo y voluntad en acero viviente. Años de sostener la línea bajo presión imposible han convertido tu resistencia en legendaria. Eres el ancla que mantiene unida a la formación cuando todo lo demás se derrumba.
+
+**Efectos:**
+- Obtienes un bonificador de +2 a las Tiradas de Salvación basadas en Cuerpo.
+- Si portas armadura ligera o media, sumas un +1 adicional a tu bonificador de Armadura.
+- Tu Resistencia máxima aumenta en 5 puntos.
+
+### Rango 1: Presencia Defensiva
+
+Tu mera presencia en el campo de batalla infunde confianza y protección en tus aliados. Los guerreros que luchan a tu lado se sienten invencibles, protegidos por tu vigilancia constante y tu habilidad para anticipar los golpes enemigos.
+
+**Tipo de Acción:** Acción Rápida  
+**Coste:** 2 puntos de Resistencia
+
+**Efectos:**
+- Todos los aliados adyacentes a ti obtienen un bonificador de +2 a su Defensa hasta el inicio de tu próximo turno.
+- Tú también obtienes un bonificador de +1 a tu Defensa durante el mismo período.
+- Puedes activar esta habilidad como Reacción cuando un aliado adyacente está siendo atacado, aplicando los beneficios antes de resolver el ataque.
+
+### Rango 1: Postura Inamovible
+
+Has perfeccionado el arte de mantenerte firme donde otros caerían. Tu centro de gravedad es perfecto, tus pies están enraizados como robles milenarios. Los enemigos que intentan moverte descubren que es como empujar una montaña.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Obtienes Ventaja en todas las tiradas que impliquen resistir Derribos, Empujes o cualquier efecto que intente derribarte o desplazarte contra tu voluntad.
+- Tu movimiento base aumenta en 3 metros cuando te diriges hacia un aliado que haya perdido más de la mitad de su Resistencia.
+- Obtienes un bonificador de +2 a tu Iniciativa.
+
+### Rango 2: Muro Viviente
+
+Tu cuerpo se interpone entre tus aliados y el peligro, absorbiendo castigos que matarían a guerreros menores. Has perfeccionado el arte del sacrificio táctico, posicionándote con precisión milimétrica para interceptar golpes destinados a tus compañeros.
+
+**Tipo de Acción:** Reacción  
+**Coste:** 2 puntos de Resistencia
+
+**Efectos:**
+- Cuando un aliado adyacente a ti es el objetivo de un ataque cuerpo a cuerpo, puedes usar esta habilidad para interceptarlo.
+- Te conviertes en el nuevo objetivo del ataque.
+- Obtienes un bonificador de +2 a tu Defensa contra ese ataque específico.
+- Puedes usar esta habilidad una vez por ronda.
+
+### Rango 2: Disciplina de Hierro
+
+Tu inquebrantable determinación es contagiosa. Los guerreros que luchan bajo tu mando encuentran reservas de coraje que no sabían que poseían. Tu mera presencia fortalece la carne y endurece el espíritu de quienes te rodean.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Mientras no estés bajo el estado Agotado, todos los aliados que actúen después de ti en el orden de Iniciativa obtienen Ventaja en la primera Tirada de Salvación que realicen durante su turno.
+- Todos los aliados adyacentes a ti obtienen un bonificador de +1 a sus Tiradas de Salvación de Cuerpo.
+- Ignoras completamente el primer nivel de Fatiga que obtengas durante un combate. Este nivel se restablece al inicio de cada combate.
+
+### Rango 3: Bastión Viviente
+
+Te conviertes en una fortaleza ambulante, un punto de resistencia absoluta que niega el avance enemigo. Cuando plantas tus pies y alzas tu arma, la línea se mantiene. No importa cuántos enemigos vengan, no importa cuán feroces sean sus ataques. Aquí, en este punto exacto, el avance enemigo termina.
+
+**Tipo de Acción:** Acción Completa  
+**Coste:** 0 puntos de Resistencia
+
+**Efectos:**
+- Durante las próximas 2 rondas (hasta el inicio de tu tercer turno), todos los aliados dentro de 6 metros de ti obtienen los siguientes beneficios:
+  - Los ataques enemigos contra ellos no pueden tener Ventaja. Si un efecto otorgaría Ventaja, ese efecto se ignora.
+  - Obtienen un bonificador de +3 a su Defensa.
+  - Son inmunes a los efectos de Empuje y Derribo.
+- Mientras esta habilidad está activa, no puedes desplazarte voluntariamente. Si eres movido por un efecto contra tu voluntad, el efecto termina inmediatamente.
+- Esta habilidad puede usarse una vez por combate.
+
+### Rango 3: Nadie Muere Bajo Mi Guardia
+
+Tu voluntad férrea puede literalmente arrancar a un aliado de las garras de la muerte. Cuando un compañero cae, tu voz truena sobre el campo de batalla. No es una súplica, es una orden: "¡Levántate! ¡La batalla no ha terminado!" Y de alguna forma, contra toda lógica, lo hacen.
+
+**Tipo de Acción:** Reacción  
+**Coste:** 3 puntos de Resistencia
+
+**Efectos:**
+- Cuando un aliado dentro de 6 metros de ti está a punto de caer a 0 puntos de Resistencia (quedando Agotado), puedes activar esta habilidad.
+- El aliado afectado no cae a 0 puntos de Resistencia. En su lugar, su Resistencia se establece en la mitad de su máximo (redondeado hacia abajo).
+- El aliado no sufre niveles de Fatiga como resultado de este efecto.
+- El aliado puede actuar inmediatamente después de ti en la ronda actual, ignorando su posición en el orden de Iniciativa. En rondas posteriores, retoma su Iniciativa normal.
+- Esta habilidad puede usarse un número de veces por descanso largo igual a tu bonificador de Cuerpo (mínimo 1).
+
+## Senda del Artesano
+
+Un maestro de la creación que transforma materiales brutos en herramientas, armas y objetos maravillosos. Para ti, cada objeto cuenta una historia: cómo fue hecho, qué manos lo forjaron, qué propósito cumple. Y tú puedes reescribir esas historias con un toque de tus dedos expertos.
+
+**Afinidad:** Creación
+
+**Conceptos:** Herrero, Sastre, Alquimista
+
+**Costes de PX Modificados:**
+- **Afines:** Atributo Destreza; Técnicas de Creación; Conceptos Productivos
+- **Ajenos:** Conceptos Sociales; Naturalezas
+
+**Equipo Inicial:** Kit de herramientas maestro (martillos, tenazas, limas, etc.), taller portátil o acceso a un taller, materiales variados (metal, cuero, tela, etc.), arma simple de tu propia creación
+
+### Habilidad Inicial: Maestría Artesanal
+
+Tus manos son instrumentos de precisión perfecta, capaces de crear y reparar con una eficiencia que raya en lo sobrenatural. Lo que tomaría días a un artesano común, tú lo logras en horas. Lo que otros consideran irreparable, para ti es solo un desafío interesante.
+
+**Efectos:**
+- Obtienes un bonificador de +2 a las Tiradas de Salvación basadas en Destreza.
+- Cuando creas o reparas un objeto usando un Concepto Productivo que poseas, el tiempo requerido se reduce a la mitad del tiempo estándar.
+- Todos los objetos que creas obtienen automáticamente un bonificador de calidad de +1.
+
+### Rango 1: Refuerzo de Campo
+
+Puedes mejorar el equipo en plena batalla con ajustes rápidos y eficientes. Un apriete aquí, un reajuste allá, una capa de energía de creación tejida en el metal o la tela. Tus aliados aprenden a confiar en tus manos tanto como en sus propias armas.
+
+**Tipo de Acción:** Acción Rápida  
+**Coste:** 2 puntos de Resistencia
+
+**Efectos:**
+- Elige un objeto equipado por ti o por un aliado adyacente (un arma, una pieza de armadura, un escudo, o una herramienta).
+- Ese objeto recibe una mejora temporal. Elige uno de los siguientes beneficios:
+  - Si es un arma: obtiene un bonificador de +2 al daño.
+  - Si es armadura o escudo: otorga un bonificador de +2 a la Defensa del portador.
+  - Si es una herramienta: la próxima tirada usando esa herramienta obtiene un bonificador de +2.
+- Este efecto dura hasta el final del combate actual o hasta 8 horas después de la activación si no hay combate en curso.
+
+### Rango 1: Análisis Estructural
+
+Tu ojo entrenado ve lo que otros ignoran: debilidades estructurales, fortalezas ocultas, potencial sin explotar. Un vistazo rápido te dice más sobre un objeto que horas de estudio para un artesano común.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Cuando examinas un objeto durante al menos 1 minuto, identificas automáticamente su calidad actual, los materiales de los que está hecho, cualquier defecto presente, y el método aproximado usado para su creación.
+- Obtienes Ventaja en todas las tiradas relacionadas con reparar, modificar o replicar objetos que hayas examinado previamente usando esta habilidad.
+
+### Rango 2: Forja de Batalla
+
+En el calor del combate, puedes fortalecer el equipo de tus aliados con energía de creación pura. Tus manos brillan con un resplandor azulado mientras canalizas poder directamente en las armas y armaduras de tus compañeros, elevándolas temporalmente más allá de sus limitaciones físicas.
+
+**Tipo de Acción:** Acción Principal  
+**Coste:** 2 puntos de Resistencia
+
+**Efectos:**
+- Elige a un aliado dentro de 3 metros de ti.
+- Selecciona el arma o la armadura de ese aliado para recibir el fortalecimiento.
+- Elige uno de los siguientes efectos:
+  - **Arma Fortalecida:** El arma obtiene un bonificador de +1d6+2 al daño que inflige.
+  - **Armadura Fortalecida:** La armadura otorga un bonificador de +3 a la Defensa del portador.
+- Este efecto permanece activo hasta el final de tu siguiente turno.
+- Puedes usar esta habilidad una vez por ronda.
+
+### Rango 2: Creación Expedita
+
+Puedes manifestar objetos desde la energía primigenia con mínimos materiales. Has trascendido la necesidad de seguir cada paso tradicional del proceso de creación. Tu voluntad y tu conocimiento pueden suplir lo que falta en materiales y tiempo.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Cuando creas objetos mundanos (no mágicos) de calidad estándar, solo necesitas el 25% de los materiales que normalmente se requerirían. El resto lo manifiestas desde energía de creación.
+- El tiempo de creación se reduce en un 75% adicional (esto es acumulativo con tu Habilidad Inicial Maestría Artesanal, resultando en un 87.5% de reducción total).
+- Una vez por descanso largo, puedes crear un objeto de calidad superior (con un bonificador de calidad de +2) sin necesidad de materiales adicionales ni tiempo extra. Simplemente manifiestas el objeto completo desde la energía de creación pura.
+
+### Rango 3: Obra Maestra Viviente
+
+Canalizas la esencia pura de la Creación para elevar temporalmente cualquier objeto a su forma ideal platónica. Bajo tu toque, una espada mellada se vuelve perfecta, una armadura abollada brilla como nueva, y objetos ordinarios trascienden sus limitaciones materiales para convertirse en extensiones de tu voluntad creativa.
+
+**Tipo de Acción:** Acción Completa  
+**Coste:** 0 puntos de Resistencia
+
+**Efectos:**
+- Elige hasta 3 objetos dentro de tu alcance. Cada objeto se transforma temporalmente en una obra maestra.
+- Cada objeto transformado obtiene un bonificador de calidad de +3 y los siguientes beneficios adicionales según su tipo:
+  - **Arma:** El daño base aumenta en +2d6.
+  - **Armadura o Escudo:** El bonificador a la Defensa aumenta en +3.
+  - **Herramienta:** Todas las tiradas realizadas con esta herramienta obtienen Ventaja automática.
+- Este efecto dura 1 hora.
+- Al finalizar el efecto, los objetos vuelven a su calidad original sin sufrir penalizaciones ni daño por el proceso.
+- Esta habilidad puede usarse una vez por descanso largo.
+
+### Rango 3: Maestro Constructor
+
+Has alcanzado la cúspide absoluta de tu arte. Todo lo que creas lleva el sello de la perfección, reconocible al instante por cualquier artesano con ojos entrenados. Tus creaciones son buscadas por nobles y aventureros por igual, y tu nombre se susurra con reverencia en los gremios de artesanos.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Todos los objetos que creas obtienen permanentemente un bonificador de calidad de +2. Esto es acumulativo con tu Habilidad Inicial Maestría Artesanal, resultando en un bonificador total de +3 a la calidad de todos tus objetos.
+- Puedes reparar completamente cualquier objeto no mágico usando una Acción Completa. El objeto restaura toda su calidad original, se eliminan todos sus defectos, y cualquier daño estructural desaparece. El objeto queda como recién salido del taller de su creador original.
+- Una vez por descanso largo, puedes crear un objeto de calidad excepcional con un bonificador de +4 (total de +7 con tus otras habilidades) sin necesidad de materiales ni tiempo de trabajo. Simplemente visualizas el objeto perfecto y lo manifiestas en tus manos.
+
+## Senda del Explorador
+
+Un aventurero curtido en los caminos que domina la supervivencia, lee los signos de la naturaleza y abre rutas donde otros ven solo obstáculos. El mundo salvaje es tu hogar, sus peligros son tus compañeros familiares, y sus secretos son un idioma que hablas con fluidez.
+
+**Afinidad:** Conservación, Orden (Híbrido)
+
+**Conceptos:** Explorador, Cazador, Marinero
+
+**Costes de PX Modificados:**
+- **Afines:** Atributo Destreza; Técnicas de Conservación; Conceptos Marciales
+- **Ajenos:** Atributo Cuerpo; Conceptos Sociales
+
+**Equipo Inicial:** Arma simple (arco, lanza o cuchillo), equipo de supervivencia completo (cuerda de 15 metros, brújula, mapa regional, pedernal y acero, cantimplora), ropa de viaje resistente adaptada al clima, provisiones para varios días (raciones y agua)
+
+### Habilidad Inicial: Instinto Primordial
+
+La naturaleza habla contigo en un lenguaje que la mayoría de la civilización ha olvidado. Nunca estás perdido, nunca estás verdaderamente solo. El susurro del viento te dice de dónde vienes y hacia dónde vas. Las pisadas en el barro te cuentan historias completas.
+
+**Efectos:**
+- Siempre conoces la dirección cardinal aproximada (norte, sur, este, oeste) sin necesidad de instrumentos. Esta habilidad funciona incluso en interiores o subterráneos, aunque con menos precisión.
+- Es imposible que te pierdas completamente. Incluso en territorio desconocido, siempre puedes retracer tus pasos o encontrar una salida general.
+- Obtienes Ventaja en todas las tiradas relacionadas con rastrear criaturas, cazar presas, encontrar recursos naturales (agua, alimento, refugio) o navegar por terreno salvaje.
+
+### Rango 1: Dominio del Terreno
+
+El mundo natural no es un obstáculo para ti, sino un aliado. Donde otros tropiezan con raíces y se enredan en maleza, tú te deslizas con la gracia de un depredador nativo. Las rocas te ofrecen apoyo, las ramas se apartan a tu paso.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Ignoras completamente el terreno difícil cuando te mueves por entornos naturales (bosques, montañas, pantanos, desiertos, etc.). Tu velocidad no se ve reducida.
+- Los penalizadores impuestos por terreno Peligroso se reducen a la mitad (redondeado hacia abajo).
+- Tu velocidad de movimiento base aumenta en 3 metros cuando estás en cualquier entorno natural.
+- Obtienes un bonificador de +1 a tu Defensa cuando combates en tu tipo de terreno preferido. Determina tu terreno preferido cuando adquieres esta habilidad (elige uno: bosque, montaña, desierto, pantano, llanura, tundra, jungla, o costa).
+
+### Rango 1: Lector de Huellas
+
+Ves lo que es invisible para otros ojos. Cada rama rota cuenta cuándo pasó alguien. Cada pisada en el barro revela peso, prisa, cojera. El patrón de las hojas caídas te muestra dónde algo se detuvo a descansar. El mundo natural es un libro abierto escrito en un idioma que solo tú puedes leer con fluidez.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Cuando examinas un área durante al menos 1 minuto, puedes identificar automáticamente la siguiente información sobre cualquier criatura que haya pasado por allí en las últimas 24 horas:
+  - Tipo aproximado de criatura (humanoide, bestia, monstruo, etc.)
+  - Número aproximado de individuos
+  - Hace cuánto tiempo pasaron (con un margen de error de 1 hora)
+  - En qué dirección se dirigían
+  - Su estado aproximado (heridos, cargando peso, huyendo, persiguiendo, moviéndose con cautela, etc.)
+- Puedes rastrear criaturas que normalmente no dejarían rastros físicos (criaturas voladoras, espíritus incorpóreos, etc.) realizando una tirada usando tu Concepto de Explorador o Cazador. El Director de Juego establece la dificultad según la naturaleza de la criatura.
+
+### Rango 2: Sendero Seguro
+
+Guías a tu grupo a través de los peligros del mundo salvaje con la sabiduría de quien ha caminado mil senderos peligrosos y sobrevivido a todos. Bajo tu guía, lo que sería mortal se vuelve manejable, lo que sería agotador se convierte en un paseo incómodo.
+
+**Tipo de Acción:** Acción Completa  
+**Coste:** 0 puntos de Resistencia
+
+**Efectos:**
+- Dedicas tiempo a estudiar el terreno que tienes por delante (al menos 10 minutos) y planificas una ruta óptima.
+- Durante las próximas 8 horas, tú y todos los aliados que viajen contigo obtienen los siguientes beneficios:
+  - Ignoran completamente el terreno difícil.
+  - Los penalizadores del terreno Peligroso se reducen a la mitad.
+  - Obtienen Ventaja en todas las Tiradas de Salvación realizadas contra efectos ambientales (calor extremo, frío intenso, altitud elevada, enfermedades naturales, venenos ambientales, etc.).
+  - El grupo viaja un 25% más rápido que su velocidad normal de marcha.
+- Esta habilidad puede usarse una vez por descanso largo.
+
+### Rango 2: Refugio Guardián
+
+Puedes crear un santuario temporal que protege y restaura a quienes confían en ti. Usando tu conocimiento del terreno y tu conexión con la energía de conservación, tejes un refugio que es más que simple madera y tela: es un lugar donde el mundo salvaje promete no hacer daño.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Puedes construir un refugio temporal en cualquier tipo de terreno en 30 minutos. Solo necesitas materiales básicos disponibles en el entorno (ramas, piedras, hojas, nieve, arena, etc.).
+- El refugio puede proteger cómodamente hasta 6 personas de tamaño Mediano.
+- El refugio ofrece protección completa contra condiciones ambientales extremas (lluvia, nieve, calor, frío, viento, etc.) durante hasta 8 horas.
+- Los aliados que completen un descanso (corto o largo) dentro de tu refugio obtienen los siguientes beneficios adicionales:
+  - Recuperan un 50% adicional de Resistencia (redondeado hacia abajo). Por ejemplo, si normalmente recuperarían 4 puntos, recuperan 6.
+  - Eliminan un nivel adicional de Fatiga.
+- El refugio se desmonta solo al final de su duración sin dejar rastro notable.
+
+### Rango 3: Amo del Territorio
+
+Reclamas un área extensa como tu territorio, convirtiéndote en su señor indiscutible. Dentro de estos límites, eres prácticamente invencible. Conoces cada piedra, cada árbol, cada rincón. Los animales te reconocen, el terreno te obedece, y tus enemigos descubren que han entrado en tu dominio absoluto.
+
+**Tipo de Acción:** Acción Completa  
+**Coste:** 0 puntos de Resistencia
+
+**Efectos:**
+- Dedicas al menos 1 hora a recorrer y reclamar un área de hasta 1 kilómetro cuadrado. Durante este proceso, memorizas cada detalle del terreno y estableces un vínculo místico con él.
+- Este territorio permanece bajo tu dominio durante 1d6 días. Mientras el territorio esté activo, obtienes los siguientes beneficios:
+  - Tú y todos tus aliados dentro del área obtienen Ventaja en todas las Tiradas de Salvación basadas en Cuerpo o Destreza.
+  - Conoces instintivamente la ubicación exacta de cualquier intruso que entre en tu territorio. Puedes "sentir" su posición general (norte, sur, este, oeste de tu posición) y su distancia aproximada.
+  - Siempre conoces la ubicación de recursos vitales dentro del territorio: fuentes de agua potable, áreas con alimento, refugios naturales, y rutas de escape.
+  - Puedes comunicarte telepáticamente con animales naturales (no monstruos ni bestias mágicas) dentro del área para obtener información básica sobre lo que han visto o percibido.
+- Puedes mantener hasta 3 territorios activos simultáneamente. Si intentas reclamar un cuarto, el territorio más antiguo se desactiva automáticamente.
+- Esta habilidad puede usarse una vez por descanso largo.
+
+### Rango 3: Sexto Sentido
+
+El peligro no puede sorprenderte. Tu instinto trasciende los sentidos normales, convirtiéndose en una percepción casi precognitiva del peligro. Un segundo antes de que la trampa se active, lo sabes. Un instante antes de que el asesino ataque desde las sombras, ya te estás moviendo. Y puedes extender esta protección a quienes te rodean.
+
+**Tipo de Acción:** Reacción  
+**Coste:** 0 puntos de Resistencia
+
+**Efectos:**
+- Cuando tú o cualquier aliado dentro de 12 metros de ti está a punto de ser sorprendido, caer en una trampa, o sufrir un ataque furtivo del que no es consciente, puedes activar esta habilidad como Reacción.
+- Todos los personajes afectados por la amenaza (incluido tú) deben realizar inmediatamente una Tirada de Salvación de Destreza con Ventaja contra una Dificultad establecida por el Director de Juego (típicamente entre 12 y 15).
+- Si un personaje tiene éxito en su salvación:
+  - Evita completamente el efecto (la trampa no le afecta, el ataque furtivo falla, no es sorprendido).
+  - Puede reaccionar inmediatamente con una acción gratuita: un contraataque, un movimiento de hasta 3 metros, o preparar una defensa (ganando +2 a Defensa hasta su próximo turno).
+- Si un personaje falla su salvación, la amenaza se resuelve normalmente, pero al menos tuvo la oportunidad de intentar evitarla.
+- Esta habilidad funciona incluso si estás inconsciente (pero no muerto). Tu instinto protector persiste más allá de tu consciencia activa.
+- Puedes usar esta habilidad un número de veces por descanso largo igual a tu bonificador de Aura (mínimo 1).
+
+## Senda del Místico
+
+Un experto en el uso de las energías primigenias, canalizándolas y manipulándolas a voluntad para alterar la realidad misma. Para ti, las fuerzas que otros consideran "magia" son tan tangibles como el acero y tan maleables como la arcilla. Tu cuerpo se ha convertido en un conducto perfecto para el poder que fluye por el mundo.
+
+**Afinidad:** Transformación, Caos (Híbrido)
+
+**Conceptos:** Místico, Hechicero, Monje
+
+**Costes de PX Modificados:**
+- **Afines:** Atributo Aura; Técnicas de Transformación; Conceptos Intelectuales
+- **Ajenos:** Conceptos Marciales; Conceptos Sociales
+
+**Equipo Inicial:** Arma simple (bastón o daga), túnica ceremonial, símbolo sagrado o tótem personal vinculado a tu práctica mística
+
+### Habilidad Inicial: Corazón de Energía
+
+Tu cuerpo y alma se han fusionado con las corrientes de energía primigenia que fluyen invisibles por el mundo. Mientras otros deben buscar y esforzarse para tocar estas fuerzas, tú simplemente extiendes tu consciencia y allí están, esperándote como viejos amigos.
+
+**Efectos:**
+- Obtienes un bonificador de +2 a las Tiradas de Salvación basadas en Aura.
+- Tu Resistencia máxima aumenta en 3 puntos.
+- Puedes percibir la presencia de energías primigenias activas (técnicas siendo canalizadas, lugares de poder, objetos imbuidos con energía, etc.) dentro de 15 metros de ti. Esta percepción es automática y constante, aunque no te revela detalles específicos sin investigación adicional.
+
+### Rango 1: Canalización Refinada
+
+Puedes enfocar la energía primigenia a través de ti para potenciar a tus aliados con precisión quirúrgica. Un toque de tu mano y la energía fluye hacia ellos, agudizando sus reflejos, fortaleciendo sus golpes, aclarando sus mentes.
+
+**Tipo de Acción:** Acción Rápida  
+**Coste:** 2 puntos de Resistencia
+
+**Efectos:**
+- Elige un aliado dentro de 6 metros de ti (no es necesario que sea adyacente).
+- Canalizas una de tus Energías afines (Transformación o Caos) a través de ese aliado.
+- El aliado obtiene un bonificador de +2 a todas sus tiradas (tiradas de ataque, tiradas de daño, Tiradas de Salvación, tiradas de habilidad) hasta el inicio de tu próximo turno.
+- Si el aliado objetivo posee afinidad con el mismo tipo de Energía que estás canalizando, el bonificador aumenta a +3.
+- Puedes usar esta habilidad un número de veces por ronda igual a tu bonificador de Aura (mínimo 1 vez).
+
+### Rango 1: Resonancia Mística
+
+Tu dominio creciente de las energías primigenias te permite reducir el coste de tus técnicas más frecuentes. Has aprendido atajos en los patrones de canalización, métodos más eficientes de moldear la energía, formas de reutilizar el poder que normalmente se disiparía.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Al inicio de cada descanso largo, elige una técnica que conozcas. Esta técnica se convierte en tu "técnica resonante" hasta tu próximo descanso largo.
+- El coste de Resistencia de tu técnica resonante se reduce en 2 puntos (hasta un mínimo de 1 punto). Por ejemplo, una técnica que normalmente cuesta 4 puntos de Resistencia ahora cuesta solo 2.
+- Puedes cambiar la técnica elegida en cada descanso largo, adaptándote a las necesidades de cada situación.
+- Adicionalmente, la primera vez que uses cualquier técnica en cada combate, recuperas 1 punto de Resistencia. Este efecto representa tu creciente eficiencia al canalizar poder, recuperando parte de la energía que otros desperdiciarían.
+
+### Rango 2: Interrumpir Flujo
+
+Puedes cortar la canalización de energía de un enemigo, deshaciendo sus técnicas antes de que se manifiesten. Con un gesto de tu mano, rompes los patrones que están tejiendo, disipando su poder antes de que pueda tomar forma.
+
+**Tipo de Acción:** Reacción  
+**Coste:** 4 puntos de Resistencia
+
+**Efectos:**
+- Siempre que una criatura dentro de 12 metros de ti lance o active una técnica, puedes elegir interrumpirla usando esta habilidad como Reacción.
+- Tanto tú como el lanzador de la técnica realizan inmediatamente una tirada enfrentada de Aura (2d6 + bonificador de Aura). Ambos pueden aplicar sus Conceptos si son relevantes.
+- **Si ganas la tirada enfrentada:**
+  - La técnica enemiga no se ejecuta. El efecto simplemente se disipa antes de manifestarse.
+  - El lanzador enemigo pierde los puntos de Resistencia que habría gastado en la técnica.
+  - El lanzador sufre 1d6 puntos de daño Mental como resultado del contragolpe energético.
+- **Si pierdes la tirada enfrentada:**
+  - La técnica enemiga se ejecuta normalmente y produce todos sus efectos.
+  - Tú pierdes los 4 puntos de Resistencia que gastaste al activar esta habilidad.
+  - NO ganas niveles de Fatiga (a diferencia de la versión original de esta habilidad).
+- Esta habilidad puede usarse un número de veces por combate igual a tu bonificador de Aura (mínimo 1 vez).
+
+### Rango 2: Proyección Energética
+
+Puedes forzar múltiples canalizaciones de energía en rápida sucesión, sobrecargando temporalmente tu cuerpo con poder bruto. Por un instante, te conviertes en un conducto puro, permitiendo que la energía fluya a través de ti sin las limitaciones normales del cuerpo mortal.
+
+**Tipo de Acción:** Acción Rápida  
+**Coste:** 3 puntos de Resistencia
+
+**Efectos:**
+- Durante este turno, además de tu acción completa normal, puedes usar una técnica adicional como acción extra.
+- Esta técnica adicional tiene su coste de Resistencia reducido en 1 punto (hasta un mínimo de 1).
+- La técnica adicional debe ser activada durante el mismo turno en que usaste Proyección Energética. No puedes "guardar" esta acción extra para turnos posteriores.
+- Esta habilidad puede usarse una vez por combate. Después de usarla, necesitas completar un descanso corto o largo para poder activarla nuevamente.
+
+### Rango 3: Vínculo Eterno
+
+Tu corazón mortal se ha fusionado completamente con un tipo específico de energía primigenia, convirtiéndote en su avatar viviente. Ya no simplemente canalizas esta energía; te has convertido en parte de ella. Cuando la usas, fluye a través de ti con la facilidad con que la sangre fluye por tus venas.
+
+**Tipo de Acción:** Pasiva
+
+**Efectos:**
+- Cuando adquieres esta habilidad, debes elegir una de tus Energías afines (Transformación o Caos). Esta se convierte en tu Energía Vinculada.
+- **Reducción de Coste:** Todas las técnicas de tu Energía Vinculada cuestan 2 puntos menos de Resistencia (hasta un mínimo de 1 punto). Por ejemplo, una técnica que normalmente cuesta 6 puntos ahora cuesta solo 4.
+- **Poder Aumentado:** Todas las técnicas de tu Energía Vinculada se vuelven más potentes:
+  - Si la técnica inflige daño, añade +1d6 al daño total.
+  - Si la técnica tiene una duración, esa duración aumenta en 2 rondas.
+  - Si la técnica tiene un área de efecto, el radio de esa área aumenta en 2 metros.
+  - Si la técnica no tiene ninguna de las características anteriores, otorga un bonificador de +2 a su efectividad (a discreción del Director de Juego).
+- **Resistencia Elemental:** Ganas Resistencia a un tipo de daño asociado con tu Energía Vinculada:
+  - **Transformación:** Elige un tipo de daño elemental (Fuego, Hielo, Eléctrico). Recibes la mitad de daño de ese tipo.
+  - **Caos:** Recibes la mitad de daño de tipo Corrosivo y Radiante.
+
+**Consideración importante:** Una vez que eliges tu Energía Vinculada, esta decisión es permanente para ese personaje. Representa una transformación fundamental de tu ser.
+
+### Rango 3: Escudo de Voluntad
+
+Tu dominio del Aura te permite proteger la mente y el espíritu de tus aliados con un muro invisible de energía pura. Cuando un compañero está a punto de sucumbir a un ataque mental o espiritual, extiendes tu voluntad como un escudo, envolviéndolo en tu propia fuerza interior.
+
+**Tipo de Acción:** Reacción  
+**Coste:** 2 puntos de Resistencia
+
+**Efectos:**
+- Cuando tú o un aliado dentro de 12 metros de ti sufre un efecto negativo que requiere una Tirada de Salvación de Aura (miedo, control mental, posesión, maldiciones, etc.), puedes activar esta habilidad como Reacción.
+- El objetivo de tu protección puede relanzar inmediatamente su Tirada de Salvación de Aura con Ventaja. Debe usar el resultado más alto entre la tirada original y el nuevo resultado.
+- **Si la salvación tiene éxito:** El objetivo no solo evita el efecto, sino que gana inmunidad a ese tipo específico de efecto durante 1 ronda. Por ejemplo, si resistió un efecto de Miedo, no puede ser asustado durante esa ronda.
+- **Restauración de Energía:** Independientemente del resultado de la salvación, el objetivo recupera 1d6 puntos de Resistencia. Tu energía protectora no solo defiende, sino que también restaura y fortalece.
+- **Usos limitados:** Puedes usar esta habilidad un número de veces por descanso largo igual a tu bonificador de Aura (mínimo 1 vez).
 
 
 # Herencias
@@ -2657,6 +3092,5 @@ Por lo tanto, después de sumar el valor en PD de todos los monstruos del encuen
 El total ajustado es la verdadera dificultad del encuentro, y es este número el que debes comparar con el presupuesto de tu grupo. Si el total ajustado es significativamente mayor que tu presupuesto, el combate será más difícil de lo planeado. Si es menor, será más fácil. 
 
 Este sistema es una guía, no una ciencia exacta. El terreno, la preparación de los jugadores y la táctica de los monstruos también influyen en la dificultad final. Úsalo como una herramienta para construir una base sólida y luego ajusta según la narrativa y el estado de tu grupo. 
-
 
 
